@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png",NHK G
 http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
 
